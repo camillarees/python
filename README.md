@@ -1,10 +1,11 @@
-# python
+# Google Search Results Automator
 
-# Automated Google Search
+Input any search term and receive the top 10 search results in list format, including urls, page titles, and page descriptions!
 
-Input any search term and receive the top 10 search results including their urls, page titles, and page descriptions!
+## Languages and Tools
+- Python
+- googlesearch
+- BeautifulSoup
 
-## Demo
-
-https://www.youtube.com/watch?v=NBXjWUZJUYg
+## [View Demo](https://www.youtube.com/watch?v=NBXjWUZJUYg)
 
