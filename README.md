@@ -6,5 +6,5 @@ Input any search term and receive the top 10 search results including their urls
 
 ## Demo
 
-[![Video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=NBXjWUZJUYg)
+https://www.youtube.com/watch?v=NBXjWUZJUYg
 
